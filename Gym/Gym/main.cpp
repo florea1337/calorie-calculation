@@ -35,7 +35,7 @@ int main()
     carbcalckj = caloriefordiet - (proteincalckj + fatcalckj);
     carbcalcgr = carbcalckj / 4;
 
-	cout << "Your Maximum Number of Calories You Should Consume Per Day: \n" << caloriefordiet << endl;
+   cout << "Your Maximum Number of Calories You Should Consume Per Day: \n" << caloriefordiet << endl;
     cout << "Your Maximum Number of Protein(gr) You Should Consume Per Day: \n" << proteincalcgr << endl;
     cout << "Your Maximum Number of Protein(kj) You Should Consume Per Day: \n" << proteincalckj << endl;
     cout << "Your Maximum Number of Fat You(gr) Should Consume Per Day: \n" << fatcalckj << endl;
