@@ -43,6 +43,7 @@ int main()
     cout << "Your Maximum Number of Carbohydrate(gr) You Should Consume Per Day: \n" << carbcalckj << endl;
     cout << "Your Maximum Number of Carbohydrate(kj) You Should Consume Per Day: \n" << carbcalcgr << endl;
 
+    system("pause");
     //cout << caloriefordiet << proteincalcgr << proteincalckj << fatcalckj << fatcalcgr << carbcalckj << carbcalcgr;
 
 }
